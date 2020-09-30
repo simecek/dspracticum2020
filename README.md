@@ -10,7 +10,7 @@ The course is now in the [IS Course Catalogue](https://is.muni.cz/), look for [M
 
 The course is scheduled for **Mondays, 12:00-13:30**, and will be taught remotely through Google Meet/Hangouts. The first lecture will take place on **October 5**. To be invited to the classes, enroll to the course in [IS](https://is.muni.cz/). If you want to try a few first lectures without a formal enrollment, send me [an email](https://www.muni.cz/lide/244334-petr-simecek).
 
-No special knowledge is expected but you should have at least one year of coding experience, either in R or Python. I like diverse crowds; students from different faculties and specializations are encouraged to enroll (if still in doubt, let me know to be paired with more experienced students). The course will be taught in English if at least two students will be interested, otherwise in Czech.
+No special knowledge is expected but you should have at least one year of coding experience, either R or Python. I like diverse crowds; students from different faculties and specializations are encouraged to enroll (if still in doubt, let me know to be paired with a more experienced student). The course will be taught in English if at least two students will be interested, otherwise in Czech.
 
 ## Lectures 
 
