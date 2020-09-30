@@ -14,18 +14,18 @@ No special knowledge is expected but you should have at least one year of coding
 
 ## Lectures 
 
-  1. **Linear regression** [[data]], git and GitHub
-  1. **Logistic regression**, splitting data into train, validation and testing sets
-  1. **Unsupervised methods**, visualizations
-  1. **Trees and forests**
-  1. **XGBoost & friends**
+  1. **Linear regression** [[data]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), git and GitHub
+  1. **Logistic regression** [[data]](https://www.kaggle.com/c/titanic), splitting data into train, validation and testing sets
+  1. **Unsupervised methods** [[data]](https://www.kaggle.com/zynicide/wine-reviews), visualizations
+  1. **Trees and forests** [[data]](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+  1. **XGBoost & friends** [[data]](https://www.kaggle.com/mlg-ulb/creditcardfraud)
   1. **Review**
-  1. **TensorFlow, Keras, neural networks**
-  1. **Fine-tuning, transfer learning**
-  1. **Classification of images**
-  1. **Neural networks applied to natural language processing**
-  1. **Neural networks applied to tabular data**
-  1. **Collaborative filtering**
+  1. **TensorFlow, Keras, neural networks** 
+  1. **Classification of images** [[data]](https://www.kaggle.com/zalando-research/fashionmnist)
+  1. **Fine-tuning, transfer learning** [[data]](https://www.kaggle.com/zippyz/cats-and-dogs-breeds-classification-oxford-dataset)
+  1. **Neural networks applied to natural language processing** [[data]](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+  1. **Neural networks applied to tabular data** [[data]](https://www.kaggle.com/c/rossmann-store-sales)
+  1. **Collaborative filtering** [[data]](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Scoring and credits
 
