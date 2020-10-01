@@ -38,3 +38,4 @@ No special knowledge is expected but you should have at least one year of coding
   1. [TensorFlow 2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
   1. [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook)
   1. [RStudio AI Blog](https://blogs.rstudio.com/ai/)
+  1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
