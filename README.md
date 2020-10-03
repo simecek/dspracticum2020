@@ -1,3 +1,5 @@
+**UPDATE:** I see 26 people signed up in the IS. Thanks for the interest; that is really more than I expected. On Sunday evening, I will send everybody an invite to Monday, **Oct 5, 12:00-13:30** lecture. If you did not get an email from me by Monday morning, please, let me know.
+
 # Data Science Practicum 2020
 
 This is a proposal for a Data Science course to be taught at the Faculty of Science, Masaryk University, in the fall semester 2020/2021.  
