@@ -8,7 +8,7 @@ The main goal of this assignment is to get ready for future lectures.
 
 Sign up for [Kaggle](https://www.kaggle.com/) account and download *train.csv* of [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset. 
 
-Get familiar with the data and make a basic exploratory analysis. It could be a table with mean prices per some grouping, correlations between variables, density plot of the sold price... Nothing complicated, be creative! If you really do not know, check what [other people did](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/notebooks) at Kaggle.
+Get familiar with the data and do a basic exploratory analysis. It could be a table with mean prices per some grouping, correlations between variables, density plot of the sold price... Nothing complicated, be creative! If you really do not know, check what [other people did](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/notebooks) at Kaggle.
 
 ## GitHub
 
