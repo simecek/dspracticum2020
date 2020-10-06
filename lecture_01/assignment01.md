@@ -2,6 +2,8 @@
 
 **Due to**: Oct 12, 11:00  
 
+![Teacher Image](online_teacher.jpg)
+
 The main goal of this assignment is to get ready for future lectures.
 
 ## Kaggle
