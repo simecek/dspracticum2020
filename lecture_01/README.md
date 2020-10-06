@@ -7,11 +7,10 @@
 * Introduction
 * What is Deep Learning?
 * PyTorch vs TensorFlow
+
 * Tools & organization of the course (the last two slides)
 
 ## Asignment 01
-
-I have created a slack workspace [dspraktikum2020.slack.com](http://dspraktikum2020.slack.com/). If you have a question, particularly, if you have a question about the first assignment, please, ask there.
 
 **Details**: [Assignment 01 detailed instructions](assignment01.md)  
 **Due to**: Oct 12, 11:00  
@@ -19,4 +18,4 @@ I have created a slack workspace [dspraktikum2020.slack.com](http://dspraktikum2
 
 ## Slack
 
-I have created a slack workspace [http://dspraktikum2020.slack.com/](http://dspraktikum2020.slack.com/). If you have any question, particularly if you have a question about the first assignment, please, ask there.
+I have created a slack workspace [dspraktikum2020.slack.com](http://dspraktikum2020.slack.com/). If you have a question, particularly, if you have a question about the first assignment, please, ask there.
