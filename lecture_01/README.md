@@ -11,11 +11,7 @@
 
 ## Asignment 01
 
-* sign up for [Kaggle](https://www.kaggle.com/) account; download *train.csv* of [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) dataset, get familiar with the data and make a basic exploratory analysis (anything!)
-* sign up for [GitHub](https://www.github.com/) account
-* create a GitHub repository, put your script (or notebook, Rmarkdown, ...) into it
-* send me *a feedback form* (the link is in the email from Oct 6) with your Kaggle and GitHub user names
-* set up R or Python environment with TensorFlow (or use any of the services I recommended)
+I have created a slack workspace [dspraktikum2020.slack.com](http://dspraktikum2020.slack.com/). If you have a question, particularly, if you have a question about the first assignment, please, ask there.
 
 **Details**: [Assignment 01 detailed instructions](assignment01.md)  
 **Due to**: Oct 12, 11:00  
