@@ -41,6 +41,16 @@ TensorFlow is already pre-installed, so all you have to do is to put `import ten
 
 If you want to use GPU, go to the menu and select `Runtime -> Change runtime type -> Hardware accelerator -> GPU`
 
+
+### Kaggle (R & Python)
+
+**Link:** https://www.kaggle.com/c/house-prices-advanced-regression-techniques/notebooks
+
+Click on "New Notebook" button. Select R or Python. If you need GPU, select it in the advanced setting.
+
+Kaggle kernels have TensorFlow preinstalled, so `library(tensorflow)` or `install tensorflow as tf` is all you need to do.
+
+
 ### RStudio Cloud (R)
 
 **Link:** https://rstudio.cloud/
@@ -69,15 +79,7 @@ use_virtualenv("myenv", required=TRUE)
 tf$constant("Hello Tensorflow")
 ```
 
-There are no GPUs in RStudio Cloud.
-
-### Kaggle (R & Python)
-
-**Link:** https://www.kaggle.com/c/house-prices-advanced-regression-techniques/notebooks
-
-Click on "New Notebook" button. Select R or Python. If you need GPU, select it in the advanced setting.
-
-Kaggle kernels have TensorFlow preinstalled, so `library(tensorflow)` or `install tensorflow as tf` is all you need to do.
+There are no GPUs in RStudio Cloud. Therefore, it is good for a start in a familiar environment but later you will need to switch to Kaggle.
 
 ### GSuite (Optional)
 
