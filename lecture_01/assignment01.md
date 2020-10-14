@@ -85,6 +85,6 @@ There are no GPUs in RStudio Cloud. Therefore, it is good for a start in a famil
 
 ### GSuite (Optional)
 
-**Link:** https://www.kaggle.com/c/house-prices-advanced-regression-techniques/notebooks
+**Link:** https://is.muni.cz/auth/extservices/
 
 I recommend you to sign up for the Masaryk University GSuite account, particularly if you work with Colaboratory. It comes with (almost) unlimited [Google Drive](https://drive.google.com/) to store all your data. 
