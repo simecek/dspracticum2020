@@ -18,13 +18,18 @@
 
 ## Asignment 02
 
-Look into [Palmer Archipelago (Antarctica) penguin data](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data), for `penguins_size.csv`. 
+Look into [Palmer Archipelago (Antarctica) penguin data](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data) for `penguins_size.csv`. 
 
 (If you do not like the penguin dataset, try to look for another Kaggle tabular data with a categorical variable to predict.)
 
 Your goal is the following:
 
-* Choose a categorical variables (species, island or sex) you try to predict
+* Choose a categorical variable (species, island or sex) as a label
 * Split data into training and test sets
-* Fit the neural network, plot the evolution of loss and/or accuracy as a number of epochs increase
+* Fit the neural network, plot the evolution of loss and/or accuracy as a number of epoch increases
 * Do the final evaluation on the test set
+* Upload your code to GitHub and send me the link in the feedback form
+
+**Soft deadline**: Oct 19, 11:00  
+**Hard deadline**: Oct 26, 11:00   
+**Slack channel**: https://app.slack.com/client/T01C518R2S0/C01CXFG0W9X
