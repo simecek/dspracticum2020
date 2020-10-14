@@ -10,4 +10,21 @@
 * NN. Activation function. How to add another layer of neurons?
 * How to change linear regression to logistic regression? What about multiclass classification? (softmax, cross-entropy loss)
 
+## Examples
 
+* One neuron, MPG data [[Python](01_one_neuron_and_MPG_dataset.ipynb)], [[R](01_one_neuron_and_MPG_dataset.R)]
+* DNN, MPG data [[Python](02_dense_neural_network_and_MPG_dataset.ipynb)], [[R](02_dense_neural_network_and_MPG_dataset.R)]
+* DNN, Titanic data [[Python](03_dense_neural_network_and_Titanic_dataset.ipynb)], [[R](03_dense_neural_network_and_Titanic_dataset.R)]
+
+## Asignment 02
+
+Look into [Palmer Archipelago (Antarctica) penguin data](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data), for `penguins_size.csv`. 
+
+(If you do not like the penguin dataset, try to look for another Kaggle tabular data with a categorical variable to predict.)
+
+Your goal is the following:
+
+* Choose a categorical variables (species, island or sex) you try to predict
+* Split data into training and test sets
+* Fit the neural network, plot the evolution of loss and/or accuracy as a number of epochs increase
+* Do the final evaluation on the test set
