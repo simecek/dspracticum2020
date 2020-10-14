@@ -67,7 +67,7 @@ install.packages('keras')
 Next, install Keras itself 
 ```
 library(reticulate)
-library(keras)
+library(tensorflow)
 virtualenv_create("myenv")
 
 use_virtualenv("myenv", required=TRUE)
