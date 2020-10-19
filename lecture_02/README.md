@@ -16,6 +16,8 @@
 * DNN, MPG data [[Python](02_dense_neural_network_and_MPG_dataset.ipynb)], [[R](02_dense_neural_network_and_MPG_dataset.R)]
 * DNN, Titanic data [[Python](03_dense_neural_network_and_Titanic_dataset.ipynb)], [[R](03_dense_neural_network_and_Titanic_dataset.R)]
 
+This week, the first two examples were adapted from [Tensorflow tutorial on regression](https://www.tensorflow.org/tutorials/keras/regression).
+
 ## Asignment 02
 
 Look into [Palmer Archipelago (Antarctica) penguin data](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data) for `penguins_size.csv`. 
