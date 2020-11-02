@@ -12,7 +12,7 @@ async function app() {
   console.log('Loading mobilenet..');
 
   // Load the model.
-  net = await tf.loadLayersModel('https://raw.githubusercontent.com/simecek/dspracticum2020/master/lecture_05/export_model/model.json');
+  net = await tf.loadLayersModel('https://raw.githubusercontent.com/simecek/dspracticum2020/master/docs/export_model/model.json');
   console.log('Successfully loaded model');
 
   // Make a prediction through the model on our image.
