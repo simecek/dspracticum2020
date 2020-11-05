@@ -24,4 +24,11 @@
 
 Take the dataset you have created last time, train the model and deploy the app. Try to find examples your app misclasified and explain why.
 
+If you want to use TFjs + GitHubPages, then copy [docs](docs/) into your repo and then...
+
+* Replace all files in [export_model](docs/export_model/) subfolder by [your TFjs model](https://www.tensorflow.org/js/tutorials/conversion/import_keras). Push your repo to GitHub.
+* Modify [index.js](docs/index.js) to load your model and use your label names.
+* In settings of your repo, find GitHub Pages. Set them to the master branch and `\docs` folder.
+* Wait a minute and test. The URL of your app is in the settings (it shoud be YOURNAME.github.io/YOUR_REPO_NAME)
+
 **Deadline**: Nov 9, 11:00   

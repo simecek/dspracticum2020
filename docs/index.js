@@ -21,6 +21,8 @@ async function app() {
   const p_cat = result.dataSync()[0];
   console.log('Prediction done');
 
+  // For the assignment, change this
+  // YOUR CODE STARTS HERE
   var pred = document.getElementById('pred');
   if (p_cat < 0.5) {
       prob = ((1-p_cat)*100).toFixed(2);
@@ -29,6 +31,7 @@ async function app() {
     prob = (p_cat*100).toFixed(2);
     pred.innerHTML = "<b>Cat</b> (probability=".concat(prob, "%)");
   }
+  /// YOUR CODE ENDS HERE
 
   return(p_cat);
 }
