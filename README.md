@@ -27,6 +27,8 @@ No special knowledge is expected but you should have at least one year of coding
   1. **Neural networks applied to tabular data** [[data]](https://www.kaggle.com/c/rossmann-store-sales)
   1. **Collaborative filtering** [[data]](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
+Recordings of the lectures can be found in [the teaching materials](https://is.muni.cz/auth/el/sci/podzim2020/M7DataSP/um/) in IS (you need to have MU GSuite to access the videos).
+
 ## Scoring and credits
 
 50% homeworks (by group of 2-4 students), 50% final project (individual). To pass, you must achieve at least 60% points.
