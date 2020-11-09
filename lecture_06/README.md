@@ -21,6 +21,6 @@ NLP
 
 ## Asignment 06
 
-Character-level next token generation, ideally on some non-English text.
+Discuss how your group works and how that could be improved. Try to engage all people in the group.
 
 **Deadline**: Nov 16, 11:00   
