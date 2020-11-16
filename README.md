@@ -41,3 +41,8 @@ Recordings of the lectures can be found in [the teaching materials](https://is.m
   1. [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook)
   1. [RStudio AI Blog](https://blogs.rstudio.com/ai/)
   1. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+
+## Acknowledgement
+
+This work would be impossible without tutorials provided by [TensorFlow](https://www.tensorflow.org/tutorials) and [RStudio](https://tensorflow.rstudio.com/tutorials/). I also get a lot  of inspiration from numerous Kagle notebooks and blogs all over the internet. Sometimes, in a time pressure before the lecture, I might have forgotten to properly link all my sources. If this is the case, I would be grateful if you correct my mistake, either by a pull request or sending me a message. Thank you. 
