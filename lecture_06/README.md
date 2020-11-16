@@ -9,7 +9,6 @@ NLP
 * Preprocessing (tokenization, padding…)
 * Simple dense NN
 * Embeddings
-* Recurrent NN (RNN)
 
 ## Videos
 
