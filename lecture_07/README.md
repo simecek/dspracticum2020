@@ -27,9 +27,9 @@ NLP
 
 ## Additional materials (to be added later)
 
-* Unreasonable effectivenes of RNN
-* LSTM, GRU - more detailed explanation
-* Julia Silge - text generation in R
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* For LSTM, GRU more detailed and mathematical explanation, see either [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd edition)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) (even the 1st edition), or Andrew Ng videos on Coursera - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+* [Julia Silge's text generation in R](https://juliasilge.com/blog/tensorflow-generation/): note that at the end she recommends Markov chain model with [MarkovifyR](https://github.com/abresler/markovifyR). 
 
 
 ## Asignment 07

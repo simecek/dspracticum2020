@@ -33,7 +33,7 @@ Recordings of the lectures can be found in [the teaching materials](https://is.m
 
 50% homeworks (by group of 2-4 students), 50% final project (individual). To pass, you must achieve at least 60% points.
 
-## Recommended books and blogs (to be updated)
+## Recommended books and blogs
 
   1. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd edition)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)  
   1. [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
