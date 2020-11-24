@@ -2,7 +2,7 @@
 
 **Date**: Nov 23, 2020
 
-**Slides**: TBD
+**Slides**: https://docs.google.com/presentation/d/13bmhNEOAKByqNTih4YP-xk0oeLam51f97jrS4EcvitM/edit?usp=sharing
 
 Advanced NLP
 
