@@ -25,7 +25,7 @@ NLP
 * [NLP Zero To Hero 6](https://www.youtube.com/watch?v=Y_hzMnRXjhI&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&index=6)
 
 
-## Additional materials (to be added later)
+## Additional materials
 
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * For LSTM, GRU more detailed and mathematical explanation, see either [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd edition)](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) (even the 1st edition), or Andrew Ng videos on Coursera - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
