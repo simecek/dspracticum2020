@@ -4,7 +4,7 @@
 
 **Slides**: https://docs.google.com/presentation/d/1uiym_dUDKDTtJhgaXpKO-R0u1j4yN95MTVIAa3XIH3E/edit?usp=sharing
 
-* Test on Kahoot
+* [Quiz on Kahoot](https://docs.google.com/presentation/d/18kgZDErIqFA-HF0P2CN-MLdkyIO9OaXKtsTkv0BLlCM/edit?usp=sharing)
 * Neural networks for tabular data
 * Batch normalization
 
