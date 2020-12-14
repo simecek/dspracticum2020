@@ -11,8 +11,17 @@
 
 ## Further reading
 
-* Chapter 9 of Fastbook
+* Chapter 9 of J. Howard's and S. Gugger's [Fastbook](https://github.com/fastai/fastbook)
 
 ## Asignment 11
 
-T.B.D.
+**Deadline**: January 4th, 10 am
+
+Take the Kaggle dataset
+
+https://www.kaggle.com/c/bluebook-for-bulldozers 
+
+and try to train simple Random Forest or some kind of Gradient Boosted Tree model. Save the model and its predictions to GitHub repository.
+
+
+
