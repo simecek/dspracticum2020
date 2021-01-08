@@ -2,7 +2,7 @@
 
 ## 0. Create a GitHub account and your first repository
 
-## 1. Regression & classification (classify penguins based on its size)
+## 1. Regression & classification (classify penguins based on their size)
 
 * https://github.com/indrakovaa/Praktikum/blob/main/penguins_script.R
 * https://github.com/stazam/Exploratory-analysis---House-pricing-public-/blob/main/HousePricesUpdated.ipynb
