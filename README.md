@@ -32,7 +32,7 @@ Recordings of the lectures can be found in [the teaching materials](https://is.m
 ## Assignments
 
   1. Create a GitHub account and your first repository
-  1. Classify penguins based on its size
+  1. Classify penguins based on their size
   1. Fashion MNIST classification
   1. Image classification app
   1. Text generation
