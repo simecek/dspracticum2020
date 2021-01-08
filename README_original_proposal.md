@@ -1,8 +1,8 @@
 # Data Science Practicum 2020
 
-This Data Science course has been taught at the Faculty of Science, Masaryk University, in the fall semester 2020/2021.  
+This is a proposal for a Data Science course to be taught at the Faculty of Science, Masaryk University, in the fall semester 2020/2021.  
 
-I gave 12 lectures, each focused on one ML technique and dataset (typically from [kaggle.com](http://kaggle.com)). The emphasis has been on coding and practicing data science skills, rather than the theoretical background.
+I expect to give 12 lectures, each focused on one dataset (typically from [kaggle.com](http://kaggle.com)) and one data science technique. The emphasis should be on coding and practicing data science skills, not the theoretical background.
 
 ## Course Info
 
@@ -12,35 +12,26 @@ The course is scheduled for **Mondays, 12:00-13:30**, and will be taught remotel
 
 No special knowledge is expected but you should have at least one year of coding experience, either R or Python. I like diverse crowds; students from different faculties and specializations are encouraged to enroll (if still in doubt, let me know to be paired with a more experienced student). The course will be taught in English if at least two students will be interested, otherwise in Czech.
 
-## Lectures
+## Lectures 
 
-  1. Intro, linear regression (one neuron), neural networks (NN), TensorFlow (TF)
-  1. Logistic regression, softmax, cross-entropy
-  1. Image data, convolutional NN
-  1. ImageNet, fine tuning, tranfer learning, data augmentation
-  1. TenforFlowJS, GitHub Pages, backpropagation
-  1. Natural language processing (NLP), text preprocessing, dense NN
-  1. Embeddings, recurrent NN (LSTM, GRU)
-  1. Text classification, transformers, NLP methods on genomic data
-  1. Recommenders / Collaborative filtering, optimization
-  1. Tabular data, batch normalization
-  1. Trees, random forest, XGBoost, LightGBM, CatBoost
-  1. ML models interpretation, hyper-parameters optimization, autoML
+  1. **Linear regression** [[data]](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), git and GitHub
+  1. **Logistic regression** [[data]](https://www.kaggle.com/c/titanic), splitting data into train, validation and testing sets
+  1. **Unsupervised methods** [[data]](https://www.kaggle.com/zynicide/wine-reviews), visualizations
+  1. **Trees and forests** [[data]](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+  1. **XGBoost & friends** [[data]](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+  1. **Review**
+  1. **TensorFlow, Keras, neural networks** 
+  1. **Classification of images** [[data]](https://www.kaggle.com/zalando-research/fashionmnist)
+  1. **Fine-tuning, transfer learning** [[data]](https://www.kaggle.com/zippyz/cats-and-dogs-breeds-classification-oxford-dataset)
+  1. **Neural networks applied to natural language processing** [[data]](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+  1. **Neural networks applied to tabular data** [[data]](https://www.kaggle.com/c/rossmann-store-sales)
+  1. **Collaborative filtering** [[data]](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 Recordings of the lectures can be found in [the teaching materials](https://is.muni.cz/auth/el/sci/podzim2020/M7DataSP/um/) in IS (you need to have MU GSuite to access the videos).
 
-## Assignments
+## Scoring and credits
 
-  1. Create a GitHub account and your first repository
-  1. Classify penguins based on its size
-  1. Fashion MNIST classification
-  1. Image classification app
-  1. Text generation
-  1. Genomic seqs classification
-  1. Ratings prediction
-  1. Blue book for buldosers 
-
-For the students' solution, see [Assignments.md](Assignments.md).
+50% homeworks (by group of 2-4 students), 50% final project (individual). To pass, you must achieve at least 60% points.
 
 ## Recommended books and blogs
 
