@@ -48,4 +48,5 @@
 
 * https://github.com/trachtok/dspracticum2020_data/tree/main/assignment11
 * https://github.com/PetraB42/DSpracticum2020/blob/main/Buldosers_price.ipynb
-* https://github.com/katarinagresova/M7DataSP_2020/tree/dokoncenie/assignment_10
+* https://github.com/katarinagresova/M7DataSP_2020/tree/main/assignment_10
+* https://github.com/akondekova/tree
